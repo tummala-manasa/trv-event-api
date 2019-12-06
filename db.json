@@ -80,6 +80,110 @@
           "price_in_usd": 35
         }
       ]
+    },
+    {
+      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
+      "rooms": [
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
+          "name": "Executive",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 2,
+          "price_in_usd": 10
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        }
+      ]
+    },
+    {
+      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
+      "rooms": [
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
+          "name": "Double",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 30
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        }
+      ]
+    },
+    {
+      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
+      "rooms": [
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
+          "name": "Double",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 30
+        }
+      ]
+    },
+    {
+      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
+      "rooms": [
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        },
+        {
+          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
+          "name": "Executive",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 2,
+          "price_in_usd": 10
+        }
+      ]
     }
   ],
   "details": [
@@ -157,6 +261,149 @@
           "price_in_usd": 30
         }
       ]
+    },
+    {
+      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
+      "name": "Third testing Hotel",
+      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
+      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
+      "rating": 1.2,
+      "amenities": [
+        "free parking",
+        "pool"
+      ],
+      "nearby_attractions": [
+        "Beach",
+        "Theatre"
+      ],
+      "checkInInfo": [
+        "Check-in time 2:00 PM-2:00 AM",
+        "Check-out time is 11:00 AM"
+      ],
+      "rooms": [
+        {
+          "id": "bf29853-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf29853-7cec-47bf-ba3d-3ba765061db7",
+          "name": "Executive",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 2,
+          "price_in_usd": 10
+        }
+      ]
+    },
+    {
+      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
+      "name": "Fourth testing Hotel",
+      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
+      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
+      "rating": 2.7,
+      "amenities": [
+        "gym"
+      ],
+      "nearby_attractions": [
+        "Beach",
+        "Fort"
+      ],
+      "checkInInfo": [
+        "Check-in time 2:00 PM-2:00 AM",
+        "Check-out time is 11:00 AM",
+        "Credit card or cash deposit required",
+        "Government-issued photo ID required",
+        "Minimum check-in age is 18"
+      ],
+      "rooms": [
+        {
+          "id": "bf2b953-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        },
+        {
+          "id": "bf2b953-7cec-47bf-ba3d-3ba76506",
+          "name": "Double",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 30
+        }
+      ]
+    },
+    {
+      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
+      "name": "Fifth testing Hotel",
+      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
+      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
+      "rating": 4.2,
+      "amenities": [
+        "restaurant"
+      ],
+      "nearby_attractions": [
+        "Castle",
+        "Fort"
+      ],
+      "checkInInfo": [
+        "Check-in time 2:00 PM-2:00 AM",
+        "Check-out time is 11:00 AM",
+        "Credit card or cash deposit required",
+        "Government-issued photo ID required",
+        "Minimum check-in age is 18"
+      ],
+      "rooms": [
+        {
+          "id": "bf2b93-7cec-47bf-ba3d-3ba765061d",
+          "name": "Single",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 1,
+          "price_in_usd": 5
+        },
+        {
+          "id": "bf2b953-cec-47bf-ba3d-3ba76506",
+          "name": "Double",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 30
+        }
+      ]
+    },
+    {
+      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
+      "name": "Sixth testing Hotel",
+      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
+      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
+      "rating": 3.2,
+      "amenities": [
+        "free parking"
+      ],
+      "nearby_attractions": [
+        "Castle",
+        "Fort"
+      ],
+      "checkInInfo": [
+        "Check-in time 2:00 PM-2:00 AM",
+        "Check-out time is 11:00 AM"
+      ],
+      "rooms": [
+        {
+          "id": "bf2b53-7cec-47bf-ba3d-3ba765061db",
+          "name": "Deluxe suite",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 4,
+          "price_in_usd": 20
+        },
+        {
+          "id": "bf2b93-7cec-47bf-ba3d-3ba765061db7",
+          "name": "Executive",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+          "max_occupancy": 2,
+          "price_in_usd": 10
+        }
+      ]
     }
   ],
   "moreInfo": [
@@ -187,6 +434,62 @@
         "http://via.placeholder.com/100x140",
         "http://via.placeholder.com/140x140"
       ]
+    },
+    {
+      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "price_range": "100$-200$",
+      "nearby_attractions": [
+        "Beach",
+        "Theatre"
+      ],
+      "images": [
+        "http://via.placeholder.com/140x100",
+        "http://via.placeholder.com/100x140",
+        "http://via.placeholder.com/140x140"
+      ]
+    },
+    {
+      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "price_range": "1$-2$",
+      "nearby_attractions": [
+        "Beach",
+        "Fort"
+      ],
+      "images": [
+        "http://via.placeholder.com/140x100",
+        "http://via.placeholder.com/100x140",
+        "http://via.placeholder.com/140x140"
+      ]
+    },
+    {
+      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "price_range": "11$-12$",
+      "nearby_attractions": [
+        "Castle",
+        "Fort"
+      ],
+      "images": [
+        "http://via.placeholder.com/140x100",
+        "http://via.placeholder.com/100x140",
+        "http://via.placeholder.com/140x140"
+      ]
+    },
+    {
+      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "price_range": "10$-12$",
+      "nearby_attractions": [
+        "Castle",
+        "Fort"
+      ],
+      "images": [
+        "http://via.placeholder.com/140x100",
+        "http://via.placeholder.com/100x140",
+        "http://via.placeholder.com/140x140"
+      ]
     }
   ],
   "hotel": [
@@ -211,6 +514,55 @@
       "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
       "distance_to_venue": 200,
       "rating": 0.2,
+      "price_category": "low",
+      "amenities": [
+        "free_parking"
+      ],
+      "image": "http://via.placeholder.com/140x100"
+    },
+    {
+      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
+      "name": "Third testing Hotel",
+      "description": "Lorem ipsum dolor adipscing elitr. Lorem, sadipscing elitr.",
+      "distance_to_venue": 400,
+      "rating": 1.2,
+      "price_category": "high",
+      "amenities": [
+        "free_parking",
+        "pool"
+      ],
+      "image": "http://via.placeholder.com/140x100"
+    },
+    {
+      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
+      "name": "Fourth testing Hotel",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "distance_to_venue": 1000,
+      "rating": 2.7,
+      "price_category": "low",
+      "amenities": [
+        "gym"
+      ],
+      "image": "http://via.placeholder.com/140x100"
+    },
+    {
+      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
+      "name": "Fifth testing Hotel",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "distance_to_venue": 20,
+      "rating": 4.2,
+      "price_category": "low",
+      "amenities": [
+        "restaurant"
+      ],
+      "image": "http://via.placeholder.com/140x100"
+    },
+    {
+      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
+      "name": "Sixth testing Hotel",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+      "distance_to_venue": 500,
+      "rating": 3.2,
       "price_category": "low",
       "amenities": [
         "free_parking"
