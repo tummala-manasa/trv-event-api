@@ -4,10 +4,10 @@ To mock server, we are using JSON-server(https://www.npmjs.com/package/json-serv
 
 ## Run server
 To install the server, run the below command in 'trv-venue-hotel-api' folder
-   ```npm install -g json-server```
+   - ```npm install -g json-server```
 
 To start the server, run the below command in 'trv-venue-hotel-api' folder
-  ```json-server --watch db.json --port 3001```
+  - ```json-server --watch db.json --port 3001```
   - db.json is the mock json we provided.
   - we run server on port 3001
 
