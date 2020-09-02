@@ -1,573 +1,246 @@
 {
-  "bookings": [],
-  "rooms": [
+  "cities": [
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c8",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        }
-      ]
+      "id": 1,
+      "name": "Barcelona"
     },
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba65061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba65061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba65061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba6506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3a65061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 19
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3-3ba6506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 35
-        }
-      ]
+      "id": 2,
+      "name": "Amsterdam"
     },
     {
-      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        }
-      ]
+      "id": 3,
+      "name": "Seville"
     },
     {
-      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        }
-      ]
+      "id": 4,
+      "name": "London"
     },
     {
-      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        }
-      ]
+      "id": 5,
+      "name": "London"
     },
     {
-      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        }
-      ]
+      "id": 6,
+      "name": "Palma de Mallorca"
+    },
+    {
+      "id": 7,
+      "name": "Dusseldorf"
+    },
+    {
+      "id": 8,
+      "name": "Barcelona"
+    },
+    {
+      "id": 9,
+      "name": "Dusseldorf"
+    },
+    {
+      "id": 10,
+      "name": "Edimburg"
     }
   ],
-  "details": [
+  "events": [
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c8",
-      "name": "Developer-friendly hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
-      "rating": 4.6,
-      "amenities": [
-        "free wifi",
-        "spa",
-        "pool",
-        "pets"
-      ],
-      "nearby_attractions": [
-        "Museum",
-        "Park"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM"
-      ],
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        }
-      ]
+      "id": 0,
+      "isFree": true,
+      "name": "CSS Grids: fact or fiction",
+      "city": 9,
+      "startDate": "2019-07-14T02:00:00+00:00",
+      "endDate": "2019-07-14T03:00:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c",
-      "name": "Second testing Hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Dieselstrasse 31, Gerlingen, BW, 70839, Germany",
-      "price_range": "50$-100$",
-      "rating": 0.2,
-      "amenities": [
-        "free parking"
-      ],
-      "nearby_attractions": [
-        "Waterfall",
-        "Stadium"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM",
-        "Credit card or cash deposit required",
-        "Government-issued photo ID required",
-        "Minimum check-in age is 18"
-      ],
-      "rooms": [
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b9853-7cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        }
-      ]
+      "id": 1,
+      "isFree": true,
+      "name": "Git Deep: A look at some of Git's powerful, underused features",
+      "city": 1,
+      "startDate": "2019-06-09T21:30:00+00:00",
+      "endDate": "2019-06-09T23:50:00+00:00"
     },
     {
-      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
-      "name": "Third testing Hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
-      "rating": 1.2,
-      "amenities": [
-        "free parking",
-        "pool"
-      ],
-      "nearby_attractions": [
-        "Beach",
-        "Theatre"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM"
-      ],
-      "rooms": [
-        {
-          "id": "bf29853-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf29853-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        }
-      ]
+      "id": 2,
+      "isFree": false,
+      "name": "Refactoring to clean code",
+      "city": 7,
+      "startDate": "2019-08-17T09:00:00+00:00",
+      "endDate": "2019-08-17T10:00:00+00:00"
     },
     {
-      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
-      "name": "Fourth testing Hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
-      "rating": 2.7,
-      "amenities": [
-        "gym"
-      ],
-      "nearby_attractions": [
-        "Beach",
-        "Fort"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM",
-        "Credit card or cash deposit required",
-        "Government-issued photo ID required",
-        "Minimum check-in age is 18"
-      ],
-      "rooms": [
-        {
-          "id": "bf2b953-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b953-7cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        }
-      ]
+      "id": 3,
+      "isFree": true,
+      "name": "CSS VS SASS",
+      "city": 8,
+      "startDate": "2019-07-03T17:00:00+00:00",
+      "endDate": "2019-07-03T18:30:00+00:00"
     },
     {
-      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
-      "name": "Fifth testing Hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
-      "rating": 4.2,
-      "amenities": [
-        "restaurant"
-      ],
-      "nearby_attractions": [
-        "Castle",
-        "Fort"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM",
-        "Credit card or cash deposit required",
-        "Government-issued photo ID required",
-        "Minimum check-in age is 18"
-      ],
-      "rooms": [
-        {
-          "id": "bf2b93-7cec-47bf-ba3d-3ba765061d",
-          "name": "Single",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 1,
-          "price_in_usd": 5
-        },
-        {
-          "id": "bf2b953-cec-47bf-ba3d-3ba76506",
-          "name": "Double",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 30
-        }
-      ]
+      "id": 4,
+      "isFree": true,
+      "name": "CSS VS SASS",
+      "city": 3,
+      "startDate": "2019-07-07T13:00:00+00:00",
+      "endDate": "2019-07-07T15:00:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
-      "name": "Sixth testing Hotel",
-      "description": "Built in a 16th Century Portuguese Fort, the five-star Taj Fort Aguada Resort & Spa, Goa is rich in history and culture. Overlooking the Arabian Sea and set across a 73-acre land, guests will experience maximum relaxation.Taj Fort Aguada Resort & Spa, Goa is 100 metres away from Fort Aguada and 45 kilometres away from Dabolim Airport.",
-      "address": "Stahlgruberring 45-47, Munich, 81829, Germany",
-      "rating": 3.2,
-      "amenities": [
-        "free parking"
-      ],
-      "nearby_attractions": [
-        "Castle",
-        "Fort"
-      ],
-      "checkInInfo": [
-        "Check-in time 2:00 PM-2:00 AM",
-        "Check-out time is 11:00 AM"
-      ],
-      "rooms": [
-        {
-          "id": "bf2b53-7cec-47bf-ba3d-3ba765061db",
-          "name": "Deluxe suite",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 4,
-          "price_in_usd": 20
-        },
-        {
-          "id": "bf2b93-7cec-47bf-ba3d-3ba765061db7",
-          "name": "Executive",
-          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-          "max_occupancy": 2,
-          "price_in_usd": 10
-        }
-      ]
-    }
-  ],
-  "moreInfo": [
-    {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c8",
-      "description": "This is a longer description about the hotel which can be more then 2 paragraphs",
-      "price_range": "10$-20$",
-      "nearby_attractions": [
-        "Museum",
-        "Park"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
+      "id": 5,
+      "isFree": false,
+      "name": "Leadership in Tech",
+      "city": 5,
+      "startDate": "2019-08-26T14:00:00+00:00",
+      "endDate": "2019-08-26T15:30:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c",
-      "description": "This is a longer description about the hotel which can be more then 2 paragraphs",
-      "price_range": "50$-100$",
-      "nearby_attractions": [
-        "Waterfall",
-        "Stadium"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
+      "id": 6,
+      "isFree": false,
+      "name": "CSS Grids: fact or fiction",
+      "city": 3,
+      "startDate": "2019-07-21T20:00:00+00:00",
+      "endDate": "2019-07-21T22:00:00+00:00"
     },
     {
-      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "price_range": "100$-200$",
-      "nearby_attractions": [
-        "Beach",
-        "Theatre"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
+      "id": 7,
+      "isFree": true,
+      "name": "Let's build an app",
+      "city": 5,
+      "startDate": "2019-07-22T14:15:00+00:00",
+      "endDate": "2019-07-22T15:00:00+00:00"
     },
     {
-      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "price_range": "1$-2$",
-      "nearby_attractions": [
-        "Beach",
-        "Fort"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
+      "id": 8,
+      "isFree": true,
+      "name": "Refactoring to clean code",
+      "city": 6,
+      "startDate": "2019-09-13T19:00:00+00:00",
+      "endDate": "2019-09-13T20:00:00+00:00"
     },
     {
-      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "price_range": "11$-12$",
-      "nearby_attractions": [
-        "Castle",
-        "Fort"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
+      "id": 9,
+      "isFree": false,
+      "name": "Refactoring to clean code",
+      "city": 2,
+      "startDate": "2019-07-17T12:00:00+00:00",
+      "endDate": "2019-07-17T14:00:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "price_range": "10$-12$",
-      "nearby_attractions": [
-        "Castle",
-        "Fort"
-      ],
-      "images": [
-        "http://via.placeholder.com/140x100",
-        "http://via.placeholder.com/100x140",
-        "http://via.placeholder.com/140x140"
-      ]
-    }
-  ],
-  "hotel": [
-    {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c8",
-      "name": "Developer-friendly hotel",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "distance_to_venue": 800,
-      "rating": 4.6,
-      "price_category": "medium",
-      "amenities": [
-        "free_wifi",
-        "spa",
-        "pool",
-        "pets"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 10,
+      "isFree": true,
+      "name": "Refactoring to clean code",
+      "city": 8,
+      "startDate": "2019-09-14T15:00:00+00:00",
+      "endDate": "2019-09-14T17:30:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-88d3-5029af3269c",
-      "name": "Second testing Hotel",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "distance_to_venue": 200,
-      "rating": 0.2,
-      "price_category": "low",
-      "amenities": [
-        "free_parking"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 11,
+      "isFree": true,
+      "name": "CSS VS SASS",
+      "city": 3,
+      "startDate": "2019-08-27T22:00:00+00:00",
+      "endDate": "2019-08-27T23:00:00+00:00"
     },
     {
-      "id": "61c9665-3c08-45ec-88d3-5029af3269c",
-      "name": "Third testing Hotel",
-      "description": "Lorem ipsum dolor adipscing elitr. Lorem, sadipscing elitr.",
-      "distance_to_venue": 400,
-      "rating": 1.2,
-      "price_category": "high",
-      "amenities": [
-        "free_parking",
-        "pool"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 12,
+      "isFree": false,
+      "name": "Design Thinking: creating value through problem-solving",
+      "city": 10,
+      "startDate": "2019-09-27T11:00:00+00:00",
+      "endDate": "2019-09-27T12:15:00+00:00"
     },
     {
-      "id": "6c9665f-3c08-45ec-88d3-5029af3269c",
-      "name": "Fourth testing Hotel",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "distance_to_venue": 1000,
-      "rating": 2.7,
-      "price_category": "low",
-      "amenities": [
-        "gym"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 13,
+      "isFree": false,
+      "name": "Leadership in Tech",
+      "city": 4,
+      "startDate": "2019-09-22T04:00:00+00:00",
+      "endDate": "2019-09-22T05:45:00+00:00"
     },
     {
-      "id": "61c9665f-3c8-45ec-88d3-5029af3269c",
-      "name": "Fifth testing Hotel",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "distance_to_venue": 20,
-      "rating": 4.2,
-      "price_category": "low",
-      "amenities": [
-        "restaurant"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 14,
+      "isFree": true,
+      "name": "Design Thinking: creating value through problem-solving",
+      "city": 9,
+      "startDate": "2019-09-03T15:00:00+00:00",
+      "endDate": "2019-09-03T18:00:00+00:00"
     },
     {
-      "id": "61c9665f-3c08-45ec-8d3-5029af3269c",
-      "name": "Sixth testing Hotel",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
-      "distance_to_venue": 500,
-      "rating": 3.2,
-      "price_category": "low",
-      "amenities": [
-        "free_parking"
-      ],
-      "image": "http://via.placeholder.com/140x100"
+      "id": 15,
+      "isFree": false,
+      "name": "Refactoring to clean code",
+      "city": 5,
+      "startDate": "2019-09-26T16:00:00+00:00",
+      "endDate": "2019-09-26T16:45:00+00:00"
+    },
+    {
+      "id": 16,
+      "isFree": true,
+      "name": "Let's build an app",
+      "city": 10,
+      "startDate": "2019-06-18T07:00:00+00:00",
+      "endDate": "2019-06-18T09:00:00+00:00"
+    },
+    {
+      "id": 17,
+      "isFree": true,
+      "name": "Git Deep: A look at some of Git's powerful, underused features",
+      "city": 3,
+      "startDate": "2019-08-25T22:00:00+00:00",
+      "endDate": "2019-08-25T23:20:00+00:00"
+    },
+    {
+      "id": 18,
+      "isFree": false,
+      "name": "Top Frontend Frameworks",
+      "city": 2,
+      "startDate": "2019-09-27T04:00:00+00:00",
+      "endDate": "2019-09-27T07:00:00+00:00"
+    },
+    {
+      "id": 19,
+      "isFree": true,
+      "name": "Refactoring to clean code",
+      "city": 1,
+      "startDate": "2019-07-14T14:00:00+00:00",
+      "endDate": "2019-07-14T15:00:00+00:00"
+    },
+    {
+      "id": 20,
+      "isFree": false,
+      "name": "Top Frontend Frameworks",
+      "city": 4,
+      "startDate": "2019-08-08T03:00:00+00:00",
+      "endDate": "2019-08-08T05:00:00+00:00"
+    },
+    {
+      "id": 21,
+      "isFree": true,
+      "name": "Git Deep: A look at some of Git's powerful, underused features",
+      "city": 9,
+      "startDate": "2019-08-05T18:15:00+00:00",
+      "endDate": "2019-08-05T19:15:00+00:00"
+    },
+    {
+      "id": 22,
+      "isFree": false,
+      "name": "Git Deep: A look at some of Git's powerful, underused features",
+      "city": 3,
+      "startDate": "2019-07-17T21:30:00+00:00",
+      "endDate": "2019-07-17T22:30:00+00:00"
+    },
+    {
+      "id": 23,
+      "isFree": true,
+      "name": "Git Deep: A look at some of Git's powerful, underused features",
+      "city": 5,
+      "startDate": "2019-08-02T14:00:00+00:00",
+      "endDate": "2019-08-02T14:45:00+00:00"
+    },
+    {
+      "id": 24,
+      "isFree": true,
+      "name": "Let's build an app",
+      "city": 9,
+      "startDate": "2019-09-16T22:00:00+00:00",
+      "endDate": "2019-09-16T23:15:00+00:00"
     }
   ]
 }
