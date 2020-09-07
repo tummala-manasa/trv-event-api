@@ -18,7 +18,7 @@ To start the server, run the below command in 'trv-event-api' folder
 
 "cities" array
 
-- It has list if cities objects
+- It has list of cities objects
 - Each city object has name and id
 
 "events" array
